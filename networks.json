@@ -1,0 +1,8 @@
+{
+  "mainnet": {
+    "Token": {
+      "address": "0xDb3B2e1F699CaF230eE75bfBE7d97d70F81bC945",
+      "startBlock": 13669757
+    }
+  }
+}
