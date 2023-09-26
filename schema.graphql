@@ -2,40 +2,20 @@ type Token @entity {
   id: ID!
   tokenID: BigInt!
   tokenURI: String!
-  externalURL: String!
-  ipfsURI: String!
+  ipfsURI: TokenMetadata!
+  updatedAtTimestamp: BigInt!
+  owner: User!  
+}
+
+type TokenMetadata @entity {
+  id: ID! # This can be the IPFS CID
   image: String!
+  externalURL: String!
   name: String!
   description: String!
-  type: String!
-  backgrounds: String!
-  body: String!
-  belly: String!
-  horns: String!
-  misc: String!
-  collar: String!
-  eye: String!
-  mouth: String!
-  head: String!
-  updatedAtTimestamp: BigInt!
-  owner: User!
 }
 
 type User @entity {
   id: ID!
-  tokens: [Token!]! @derivedFrom (field: "owner")
+  tokens: [Token!]! @derivedFrom(field: "owner")
 }
-
-type _Schema_
-  @fulltest(
-    name: "DragonSearch"
-    language: en 
-    algorithm: rank
-    include: [{
-      entity: "Token",
-      fields:
-      [{ name: "name" }, { name: "description" }, { name: "type" }, { name: "backgrounds" },
-      { name: "body" }, { name: "belly" }, { name: "horns" }, { name: "misc" }, { name: "collar" },
-      { name: "eye" }, { name: "mouth" }, { name: "head" } 
-      }]
-  )
