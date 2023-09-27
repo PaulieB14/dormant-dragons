@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-    <img src="https://pbs.twimg.com/profile_images/1608349988458987523/GsIAsZBA_400x400.jpg" alt="Dormant Dragons" width="200"/>
+    <img src="https://i.seadn.io/gae/k8F0tdUUYNQXTRuHTR1UDqcBcaSnhZe83dqB1Hjd13x-mm-0SnukNMNF8x94NN-suIqBve0wOxl5U-lo4w3x71rC_60rTf-SNkr4jw?auto=format&dpr=1&w=1000" alt="Dormant Dragons NFT" width="200"/>
 </div>
 
 
