@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Transparent_Dragon.svg/1200px-Transparent_Dragon.svg.png" alt="Dormant Dragons Logo" width="200"/>
+    <img src="https://pbs.twimg.com/profile_images/1608349988458987523/GsIAsZBA_400x400.jpg" alt="Dormant Dragons" width="200"/>
 </div>
 
 
