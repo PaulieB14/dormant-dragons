@@ -12,7 +12,7 @@ This subgraph is focused on indexing two pivotal entities: `Token` and `User`. I
 ```plaintext
 [Example URI](https://ipfs.io/ipfs/QmSr3vdMuP2fSxWD7S26KzzBWcAN1eNhm4hk1qaR3x3vmj/234.json)
 
-Inspiration 💡
+## Inspiration 💡
 This project is inspired and adapted from a tutorial by @naderdabit on YouTube. The tutorial provides detailed instructions on building a subgraph, which have been meticulously followed and adapted to cater to the NFT project, Dormant Dragons.
 
 📺 YouTube Tutorial
