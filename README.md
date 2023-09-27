@@ -7,8 +7,9 @@
 </div>
 
 <div align="center">
-    <img src="YOUR_LOGO_LINK" alt="Dormant Dragons Logo" width="200"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Transparent_Dragon.svg/1200px-Transparent_Dragon.svg.png" alt="Dormant Dragons Logo" width="200"/>
 </div>
+
 
 ---
 
@@ -28,5 +29,19 @@ This subgraph acts as a significant resource for those interacting with the Dorm
 
 The subgraph is concentrated on indexing two critical entities: `Token` and `User`. Leveraging IPFS-based token IDs, it accesses metadata like token name, image, and description, allowing users to navigate through URIs to access metadata for specific tokens.
 
-```plaintext
 [Example URI](https://ipfs.io/ipfs/QmSr3vdMuP2fSxWD7S26KzzBWcAN1eNhm4hk1qaR3x3vmj/234.json)
+
+---
+
+## 💡 Inspiration
+
+This project is a rendition, adapted from a tutorial by [@naderdabit](https://twitter.com/naderdabit) on [YouTube](https://youtu.be/VRK17Ai33Dw?si=Pa75zodwT1EkoWQm). The meticulous guidelines provided in the tutorial have been followed and personalized to suit the essence of the NFT project, Dormant Dragons.
+
+📺 [Watch the Tutorial](https://youtu.be/VRK17Ai33Dw?si=Pa75zodwT1EkoWQm)  
+🐉 [Dormant Dragons on Twitter](https://twitter.com/DormantDragons)
+
+---
+
+## 💌 Contact
+
+For inquiries or collaborations, reach out via [Dormant Dragons Twitter](https://twitter.com/DormantDragons).
