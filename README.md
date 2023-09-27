@@ -1,19 +1,32 @@
-# Dormant Dragons API Subgraph 🐉
+<div align="center">
 
-## Overview 🌐
-The Dormant Dragons API Subgraph is meticulously crafted to index and query NFT data from the Dormant Dragons smart contract. It is tailored for users and developers seeking to implement enriched queries to fetch intricate details about NFTs and their respective owners. This subgraph is pivotal in creating relationships between NFTs and owners, and it supports an array of advanced functionalities including full-text search, sorting, and filtering.
+# 🐉 Dormant Dragons API Subgraph 🐉
 
-## Purpose 🎯
-This subgraph acts as a substantial asset for developers and users who are keen on interacting with the Dormant Dragons smart contract. It empowers them by facilitating the retrieval of extensive and detailed NFT data in an efficient manner, thereby enhancing the overall user experience.
+[![Inspired by Nader Dabit](https://img.shields.io/badge/Inspired%20by-Nader%20Dabit-blue)](https://www.youtube.com/watch?v=VRK17Ai33Dw?si=Pa75zodwT1EkoWQm)
 
-## Entities Indexed 📚
-This subgraph is focused on indexing two pivotal entities: `Token` and `User`. It leverages IPFS-based token IDs to access metadata such as token name, image, and description. This approach enables users to navigate through URIs to access comprehensive metadata for a specific token.
+</div>
+
+<div align="center">
+    <img src="YOUR_LOGO_LINK" alt="Dormant Dragons Logo" width="200"/>
+</div>
+
+---
+
+## 🌐 Overview
+
+The **Dormant Dragons API Subgraph** is a precisely crafted tool designed to index and query NFT data from the Dormant Dragons smart contract. Tailored for developers and users, it supports enriched queries to fetch detailed information about NFTs and their owners, establishing relationships and providing advanced functionalities like full-text search, sorting, and filtering.
+
+---
+
+## 🎯 Purpose
+
+This subgraph acts as a significant resource for those interacting with the Dormant Dragons smart contract. It ensures the efficient retrieval of extensive NFT data, thereby elevating the overall user experience.
+
+---
+
+## 📚 Entities Indexed
+
+The subgraph is concentrated on indexing two critical entities: `Token` and `User`. Leveraging IPFS-based token IDs, it accesses metadata like token name, image, and description, allowing users to navigate through URIs to access metadata for specific tokens.
 
 ```plaintext
 [Example URI](https://ipfs.io/ipfs/QmSr3vdMuP2fSxWD7S26KzzBWcAN1eNhm4hk1qaR3x3vmj/234.json)
-
-## Inspiration 💡
-This project is inspired and adapted from a tutorial by @naderdabit on YouTube. The tutorial provides detailed instructions on building a subgraph, which have been meticulously followed and adapted to cater to the NFT project, Dormant Dragons.
-
-📺 YouTube Tutorial
-🐉 Dormant Dragons Twitter
